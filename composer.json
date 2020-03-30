@@ -1,0 +1,21 @@
+{
+    "name": "lzhx00/osm_nominatim",
+    "description": "Use OpenStreetMap Nominatim api get geocode",
+    "keywords": [
+      "laravel",
+      "openstreetmap",
+      "osm",
+      "nominatim"
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.28",
+        "guzzlehttp/guzzle": ">=6.2.1"
+    },
+    "autoload": {
+      "psr-4": {
+        "lzhx00\\OSM_Nominatim\\": "src"
+      }
+    }
+}
