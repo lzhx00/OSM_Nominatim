@@ -46,21 +46,21 @@ GeoCode::make()->setAcceptLanguage('en-US')->search('1 Infinite Loop, Cupertino,
 ### Language
 setAcceptLanguage($value)
 ### AddressDetails
-Default:0
+Default:0</br>
 setAddressDetails($value)
 ### Debug
-Default:0
+Default:0</br>
 setDebug($value)
 ### Email
-Default:null
+Default:null</br>
 setEmail($value)
 ### ExtraTags
-Default:0
+Default:0</br>
 setExtraTags($value)
 ### JsonCallback
-Default:null
+Default:null</br>
 setJsonCallback($value)
 ### NameDetails
-Default:0
+Default:0</br>
 setNameDetails($value)
 
