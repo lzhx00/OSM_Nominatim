@@ -17,7 +17,7 @@ class GeoController extends Controller
 {
     public function geocoding(){
         $response = GeoCode::make()->reverse(37.3316697,-122.03009820215502);
-        return $response;
+        dd($response);
     }
 }
 ```
