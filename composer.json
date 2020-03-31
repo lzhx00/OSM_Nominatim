@@ -1,6 +1,6 @@
 {
     "name": "lzhx00/osm_nominatim",
-    "description": "Use OpenStreetMap Nominatim api get geocode",
+    "description": "Get geocode with OSM Nominatim API",
     "keywords": [
       "laravel",
       "openstreetmap",
